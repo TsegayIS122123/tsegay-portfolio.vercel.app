@@ -8,9 +8,9 @@ Welcome to my personal portfolio website! I'm a **Backend Engineer** specializin
 
 | Platform | URL | Status |
 |----------|-----|--------|
-| **Vercel** | [tsegay-portfolio.vercel.app](https://tsegay-portfolio.vercel.app) | ✅ Live |
+| **Vercel** | [tsegay-portfoliovercelapp.vercel.app](https://tsegay-portfoliovercelapp.vercel.app) | ✅ Live |
 
-[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Live-black)](https://tsegay-portfolio.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Live-black)](https://tsegay-portfoliovercelapp.vercel.app)
 
 ## 🚀 About Me
 
